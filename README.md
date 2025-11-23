@@ -1,1 +1,1 @@
-# Satellite-Aided-Crsis-evaulation-and-Response-system
+# Plant Disease Classification using CNNs
