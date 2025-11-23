@@ -2,9 +2,8 @@
 
 **Project:** Plant Disease Classification using ResNet-9 (Deep Learning)  
 **Author:** Sparsh Saini  
-**Notebook (local):** `/mnt/data/Plant Disease Classification using CNNs.ipynb`
+**Notebook (local):** https://github.com/Sparshsaini89/Plant-Disease-Classification-using-CNNs
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 
 ---
 
@@ -29,5 +28,4 @@ This project trains a convolutional neural network (ResNet-9) to classify plant 
 
 ---
 
-## 📁 Suggested Repository Structure
 
